@@ -13,8 +13,8 @@
 
 ## 깃허브 통계
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)](https://github.com/깃허브아이디)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=KimLemon&show_icons=true&theme=radical)](https://github.com/깃허브아이디)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimLemon&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
 
 ## 기술
 
